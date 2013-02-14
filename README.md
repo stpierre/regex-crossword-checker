@@ -1,2 +1,0 @@
-regex-crossword-checker
-=======================
